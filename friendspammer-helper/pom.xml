@@ -39,6 +39,12 @@
 			<artifactId>mongo-java-driver</artifactId>
 			<version>3.7.0-rc0</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/javax.mail/javax.mail-api -->
+		<dependency>
+			<groupId>javax.mail</groupId>
+			<artifactId>javax.mail-api</artifactId>
+			<version>1.6.1</version>
+		</dependency>
 	</dependencies>
 </project>
 
