@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="friendspammer-helper">
+    <output-path>$PROJECT_DIR$/out/artifacts/friendspammer_helper</output-path>
+    <root id="root" />
+  </artifact>
+</component>
